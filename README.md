@@ -1,6 +1,6 @@
-Currently being published under Procedia Computer Science 2023, in the International Conference of Machine Learning and Data Engineering.
-
 # System Search Service based on a Custom lexical Search
+This project's code base is a part of the academic paper **_System Search Service Implementation Based on a Custom Lexical Search_** published in Procedia Computer Science. 
+The paper's link: https://www.sciencedirect.com/science/article/pii/S1877050924008226
 
 ## Overview
 
